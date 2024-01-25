@@ -3,7 +3,7 @@ title: "OneEntry: User-Friendly Content Management for Everyone"
 datePublished: Thu Jan 25 2024 16:11:43 GMT+0000 (Coordinated Universal Time)
 cuid: clrtew5r2000e09jrgwwo7xb6
 slug: oneentry-user-friendly-content-management-for-everyone
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706198998234/cfa1817d-9c11-4e65-8745-14c3684374d7.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706209678368/dece32fd-02d4-4cee-b767-51b86401e5de.png
 tags: web-development, cms, cms-platforms
 
 ---
