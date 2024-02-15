@@ -1,8 +1,8 @@
 ---
-title: "How to Use Google Gemini with Node.js"
+title: "How to Use Google Gemini with Node.js App"
 datePublished: Thu Feb 15 2024 13:00:21 GMT+0000 (Coordinated Universal Time)
 cuid: clsn8ay5o000409jt8bb9bxg1
-slug: how-to-use-google-gemini-with-nodejs
+slug: how-to-use-google-gemini-with-nodejs-app
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707999559523/3664f5a4-938f-44ec-acfa-6b6f512b6599.png
 tags: ai, javascript, web-development, nodejs, apis, gemini
 
