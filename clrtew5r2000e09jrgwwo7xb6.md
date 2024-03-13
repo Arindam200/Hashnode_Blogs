@@ -203,7 +203,6 @@ And there we have it!
 
 We have successfully added OneEntryCMS to our Javascript application. Now you can use this to create your own blog, e commerce website and many other applications.
 
-  
 For more resources feel free to check [this](https://account.oneentry.cloud/npm/usage).
 
 ## Learning Resources:
@@ -218,7 +217,7 @@ Here's the Link:
 
 If you found this blog post helpful, please consider sharing it with others who might benefit. You can also follow me for more content on Javascript, React, and other web Development topics.
 
-To sponsor my work, please visit: [Arindam's Sponsor Page](https://arindam1729.hashnode.dev/sponsor) and explore the various sponsorship options.
+For Paid collaboration mail me at : [arindammajumder2020@gmail.com](mailto:arindammajumder2020@gmail.com)
 
 Connect with me on [Twitter](https://twitter.com/intent/follow?screen_name=Arindam_1729), [LinkedIn](https://www.linkedin.com/in/arindam2004/), [Youtube](https://www.youtube.com/channel/@Arindam_1729) and [GitHub](https://github.com/Arindam200).
 
