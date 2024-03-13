@@ -89,7 +89,7 @@ Now we have an understanding of what is snippets and why we need them. So let's 
 
 > If you would prefer to write a snippet in a GUI, you can use the [snippet generator web app](https://snippet-generator.app/).
 
-**If you want to know more about the Syntax,** [**Check this**](https://code.visualstudio.com/docs/editor/userdefinedsnippets#_snippet-syntax)**.**
+**If you want to know more about the Syntax,**[**Check this**](https://code.visualstudio.com/docs/editor/userdefinedsnippets#_snippet-syntax)**.**
 
 1. Now we have created our Snippet! Let's see if it works or not!
     
@@ -106,9 +106,9 @@ Amazing! Now you can create your own custom snippets according to your requireme
 
 ## Conclusion:
 
-If you found this blog post helpful, please consider sharing it with others who might benefit. You can also follow me for more content on Javascript and other web development topics.
+If you found this blog post helpful, please consider sharing it with others who might benefit. You can also follow me for more content on Javascript, React, and other web Development topics.
 
-To sponsor my work, please visit: [Arindam's Sponsor Page](https://arindam1729.hashnode.dev/sponsor) and explore the various sponsorship options.
+For Paid collaboration mail me at : [arindammajumder2020@gmail.com](mailto:arindammajumder2020@gmail.com)
 
 Connect with me on [Twitter](https://twitter.com/intent/follow?screen_name=Arindam_1729), [LinkedIn](https://www.linkedin.com/in/arindam2004/), [Youtube](https://www.youtube.com/channel/@Arindam_1729) and [GitHub](https://github.com/Arindam200).
 
