@@ -26,8 +26,8 @@ In this article, we will learn and use Object-Oriented Programming (OOP) concept
 
 **There are two types of OOP languages:**
 
-**1.** [Class-based languages](https://en.m.wikipedia.org/wiki/Class-based_programming).  
-**2.** [Prototype-based languages](https://www.techopedia.com/definition/30040/prototype-based-programming).
+**1.**[Class-based languages](https://en.m.wikipedia.org/wiki/Class-based_programming).  
+**2.**[Prototype-based languages](https://www.techopedia.com/definition/30040/prototype-based-programming).
 
 So if you are coming from C++ or Java, you are familiar with Class-Based syntaxes.
 
@@ -220,9 +220,9 @@ When you use the `new` keyword with a constructor function, the following steps 
 
 ## Conclusion:
 
-If you found this blog post helpful, please consider sharing it with others who might benefit. You can also follow me for more content on Javascript and other web development topics.
+If you found this blog post helpful, please consider sharing it with others who might benefit. You can also follow me for more content on Javascript, React, and other web Development topics.
 
-To sponsor my work, please visit: [Arindam's Sponsor Page](https://arindam1729.hashnode.dev/sponsor) and explore the various sponsorship options.
+For Paid collaboration mail me at : [arindammajumder2020@gmail.com](mailto:arindammajumder2020@gmail.com)
 
 Connect with me on [Twitter](https://twitter.com/intent/follow?screen_name=Arindam_1729), [LinkedIn](https://www.linkedin.com/in/arindam2004/), [Youtube](https://www.youtube.com/channel/@Arindam_1729) and [GitHub](https://github.com/Arindam200).
 
