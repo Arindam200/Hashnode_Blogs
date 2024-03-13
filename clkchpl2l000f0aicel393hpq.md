@@ -54,7 +54,7 @@ One of the most important parts of nvm is installing different versions of Node.
 For this, nvm provides the `nvm install` command. You can install specific versions by running this command followed by the version you want. For example:
 
 ```bash
-nvm install 12.14.1 
+nvm install 12.14.1
 ```
 
 > Tip:
@@ -143,9 +143,9 @@ These are some processes to manage Node versions.
 
 ## Conclusion:
 
-If you found this blog post helpful, please consider sharing it with others who might benefit. You can also follow me for more content on Tailwind CSS and other web development topics.
+If you found this blog post helpful, please consider sharing it with others who might benefit. You can also follow me for more content on Javascript, React, and other web Development topics.
 
-To sponsor my work, please visit: [https://arindam1729.hashnode.dev/sponsor](https://arindam1729.hashnode.dev/sponsor) and explore the various sponsorship options.
+For Paid collaboration mail me at : [arindammajumder2020@gmail.com](mailto:arindammajumder2020@gmail.com)
 
 Connect with me on [Twitter](https://twitter.com/intent/follow?screen_name=Arindam_1729), [LinkedIn](https://www.linkedin.com/in/arindam2004/), [Youtube](https://www.youtube.com/channel/@Arindam_1729) and [GitHub](https://github.com/Arindam200).
 
