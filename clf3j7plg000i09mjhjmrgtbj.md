@@ -90,8 +90,6 @@ My suggestion is to explore each platform and decide which one suits you best.
 
 ### 2\. Choose a niche
 
-![How Should Digital Agencies Choose a Niche to Differentiate Themselves](https://www.dashclicks.com/wp-content/uploads/2021/09/How-Should-Digital-Agencies-Choose-a-Niche-to-Differentiate-Themselves.jpg align="left")
-
 Write blogs on the topics you are passionate about /comfortable with. You can share your learnings while learning a new technology, It enhances your knowledge of that topic.
 
 Moreover, you can use these blogs to revise concepts!
