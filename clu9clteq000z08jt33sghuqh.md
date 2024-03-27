@@ -2,7 +2,7 @@
 title: "Demystifying Hoisting in JavaScript"
 datePublished: Thu Sep 21 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clu9clteq000z08jt33sghuqh
-slug: demystifying-hoisting-in-javascript-1
+slug: all-about-hoisting
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1711516226961/603274dc-e8c6-4356-a152-46a8ee60549b.png
 tags: js, javascript, beginners, frontend-development
 
