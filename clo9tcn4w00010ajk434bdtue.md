@@ -2,7 +2,7 @@
 title: "JavaScript XMLHttpRequest()"
 datePublished: Sat Oct 28 2023 09:01:56 GMT+0000 (Coordinated Universal Time)
 cuid: clo9tcn4w00010ajk434bdtue
-slug: javascript-xmlhttprequest
+slug: javascript-xml-http-request
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691774280065/d1609c87-a640-4119-85eb-e6e813173e20.png
 tags: javascript, web-development, apis, axios, wemakedevs
 
