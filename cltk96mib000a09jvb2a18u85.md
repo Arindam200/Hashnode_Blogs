@@ -4,7 +4,7 @@ datePublished: Sat Mar 09 2024 15:41:22 GMT+0000 (Coordinated Universal Time)
 cuid: cltk96mib000a09jvb2a18u85
 slug: create-a-discord-bot-with-nodejs
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1702240178677/533d00c4-cc4e-44b0-b293-cbfa62b91b66.png
-tags: javascript, web-development, nodejs, beginners, discord, discord-bot
+tags: javascript, web-development, nodejs, beginners, discord, discord-bot, chaicode
 
 ---
 
