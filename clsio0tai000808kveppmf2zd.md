@@ -4,7 +4,7 @@ datePublished: Mon Feb 12 2024 08:21:31 GMT+0000 (Coordinated Universal Time)
 cuid: clsio0tai000808kveppmf2zd
 slug: private-routes-in-react
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1699698424727/bd6c3f21-53b5-42d6-ab5c-be75f0689408.png
-tags: web-development, reactjs, beginners, reacthooks
+tags: web-development, reactjs, beginners, reacthooks, chaicode
 
 ---
 
