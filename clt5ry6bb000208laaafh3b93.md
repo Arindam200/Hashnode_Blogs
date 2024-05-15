@@ -4,7 +4,7 @@ datePublished: Wed Feb 28 2024 12:30:08 GMT+0000 (Coordinated Universal Time)
 cuid: clt5ry6bb000208laaafh3b93
 slug: jwt-authentication-in-nodejs
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708784263471/68915645-04ef-4a2f-90ba-a3f0e6a2bdb8.png
-tags: javascript, nodejs, jwt, beginners, nodejs-developer
+tags: javascript, nodejs, jwt, beginners, nodejs-developer, chaicode
 
 ---
 
