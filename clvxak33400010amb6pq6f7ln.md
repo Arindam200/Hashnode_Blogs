@@ -103,6 +103,10 @@ tsc file_name.ts
 
 This will create a `file_name.js` file and add the compiled JS code.
 
+> If you're starting to learn Typescript, You can folllow this Series by @[Tapas Adhikary](@atapas)
+> 
+> %[https://www.youtube.com/playlist?list=PLIJrr73KDmRy_ufvq5m_4KwnxUdx9Sq3d] 
+
 ## Conclusion
 
 If you found this blog post helpful, please consider sharing it with others who might benefit. You can also follow me for more content on Javascript, React, and other web Development topics.
