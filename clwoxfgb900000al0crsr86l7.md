@@ -16,7 +16,7 @@ Are you tired of constantly switching between different applications just to gen
 
 If so, then this article has the perfect solution for you.
 
-I've created [Gen-ai-chat](https://www.npmjs.com/package/gen-ai-chat), a simple npm package that allows you to interact with AI without ever leaving your terminal.
+I've created [Gen-ai-chat](https://www.npmjs.com/package/gen-ai-chat), a powerful npm package that allows you to interact with AI without ever leaving your terminal.
 
 Let's dive deep and explore how this can improve your workflow.
 
