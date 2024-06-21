@@ -1,5 +1,6 @@
 ---
 title: "Create a Discord bot with NodeJS"
+seoDescription: "Learn how to create a Discord bot with NodeJS, add functionalities, and automate tasks for your server"
 datePublished: Sat Mar 09 2024 15:41:22 GMT+0000 (Coordinated Universal Time)
 cuid: cltk96mib000a09jvb2a18u85
 slug: create-a-discord-bot-with-nodejs
