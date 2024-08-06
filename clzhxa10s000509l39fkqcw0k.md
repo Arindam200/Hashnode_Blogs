@@ -242,28 +242,45 @@ They have 12.6k+ stars on [GitHub](https://github.com/gitpod-io/gitpod) and are 
 
 ![Replexica landing page](https://cdn.hashnode.com/res/hashnode/image/upload/v1722800845980/b6accae0-860a-4f98-9d8e-20fab7b62b14.png align="center")
 
-This open-source project is widely popular, but many developers still don't know about it. [Replexica](https://github.com/replexica/replexica) can help you build multilingual user interfaces 10x faster.
+## 7\. [Replexica](https://replexica.com/) - AI-powered i18n toolkit for React
 
-It's a simple tool to streamline internationalization (i18n) for React applications using AI, eliminating the need for manual JSON file management and complex translation workflows.
+![Replexica landing page](https://cdn.hashnode.com/res/hashnode/image/upload/v1722800845980/b6accae0-860a-4f98-9d8e-20fab7b62b14.png align="left")
+
+This open-source project is widely popular, but many developers still don't know about it. [Replexica](https://github.com/replexica/replexica) can help you build multilingual user interfaces 100x faster, with AI-powered localization.
+
+[Replexica](https://replexica.com/) is designed for dev teams who want to ship multilingual products without the hassle. It's not just another translation tool; it's a complete localization platform that integrates seamlessly with your development workflow.
 
 The toolkit consists of two main components:
 
-1. Replexica Compiler: An open-source compiler plugin for React
+1. Replexica CLI: An open-source command-line tool for managing translations.
     
-2. Replexica API: A cloud-based i18n API that leverages Large Language Models (LLMs) for content processing
+2. Replexica API: A cloud-based i18n API that leverages Large Language Models (LLMs) for content processing.A cloud-based AI localization engine powered by OpenAI, Anthropic, and Mistral.
+    
+
+[Replexica](https://replexica.com/) can help with five key aspects of your product:
+
+1. Landing pages: Localize your static content with ease
+    
+2. Blog content: Support for Markdown and frontmatter out of the box
+    
+3. User interfaces: Seamless integration with popular i18n frameworks
+    
+4. Product emails: Keep your communications multilingual
+    
+5. Real-time API: Perfect for multilingual chats, next-gen email clients, and comment systems
     
 
 You can get started quickly with Replexica using npm:
 
 ```bash
 // install
-pnpm add replexica @replexica/react @replexica/compiler
+pnpm add replexica @replexica/sdk
 
 // login to Replexica API.
 pnpm replexica auth --login
 ```
 
-Replexica supports various i18n formats, including:
+[Replexica](https://github.com/replexica/replexica) supports various i18n formats, including:
 
 * JSON-free Replexica compiler format
     
@@ -272,38 +289,56 @@ Replexica supports various i18n formats, including:
 * Legacy JSON and YAML-based formats
     
 
-To use Replexica in a Next.js project, you only need to make a small change to your configuration:
+Here's a quick example of using the [Replexica](https://github.com/replexica/replexica) SDK for real-time localization:
 
 ```javascript
-// next.config.mjs
-import replexica from '@replexica/compiler';
+import { ReplexicaEngine } from '@replexica/sdk';
 
-/** @type {import('next').NextConfig} */
-const nextConfig = {};
+const replexica = new ReplexicaEngine({ apiKey: 'your-api-key' });
 
-/** @type {import('@replexica/compiler').ReplexicaConfig} */
-const replexicaConfig = {
-  locale: {
-    source: 'en',
-    targets: ['es'],
-  },
-};
-
-export default replexica.next(
-  replexicaConfig,
-  nextConfig,
+const localizedContent = await replexica.localize(
+  { greeting: 'Hello, world!' },
+  { sourceLocale: 'en', targetLocale: 'fr' }
 );
+
+console.log(localizedContent); // { greeting: 'Bonjour, le monde!' }
 ```
 
-You can try it live on their hosted version and explore the series of demo videos available on the wiki.
+[Replexica](https://replexica.com/) supports 42 languages out of the box, so you're not limited to just a few options. Whether you need Arabic, Zulu, or anything in between, Replexica has you covered.
 
-Replexica has gained significant traction in the developer community, boasting 1k+ stars on GitHub.
+As a GitHub Technology Partner, Replexica provides easy integrations with GitHub. All localization can happen in your CI/CD pipeline. Here's a simple GitHub Actions example:
 
-It currently supports Next.js App Router, with English 🇺🇸 and Spanish 🇪🇸 language support.
+```yaml
+- uses: replexica/replexica@latest
+  with:
+    api-key: ${{ secrets.REPLEXICA_API_KEY }}
+```
 
-The team is actively working on expanding support for Next.js Pages Router and adding French language capabilities.
+[Replexica](https://replexica.com/) is built on enterprise-grade infrastructure, leveraging Cloudflare for global distribution and reliability. This means you get fast, secure, and scalable localization, no matter where your users are.
 
-Built on TypeScript, Replexica is a project worth watching for its potential to revolutionize the way we handle internationalization in React applications.
+The config is straightforward:
+
+```json
+{
+  "version": 1,
+  "locale": {
+    "source": "en",
+    "targets": ["es", "fr", "de", "ja"]
+  },
+  "buckets": {
+    "locales/[locale].json": "json",
+    "content/[locale]/blog": "markdown"
+  }
+}
+```
+
+This setup tells Replexica to translate from English to Spanish, French, German, and Japanese, handling both JSON files for UI strings and Markdown files for blog content.
+
+By leveraging AI and integrating deeply with development workflows, Replexica allows teams to focus on building great products, not managing translations.
+
+[Replexica](https://github.com/replexica/replexica) has also gained significant traction in the developer community, boasting 1k+ stars on GitHub.
+
+If you're tired of the traditional, slow, and error-prone localization process, give [Replexica](https://replexica.com/) a try. It's not just faster; it's smarter. And in the fast-paced world of software development, that makes all the difference.
 
 ---
 
